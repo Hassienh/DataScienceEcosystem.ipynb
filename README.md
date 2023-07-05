@@ -30,11 +30,7 @@ F: 5;
 AL: (N*4)+F;
 run: AL
 
-int hours=0;
-	int minutes=0;
-	int seconds=0;
-hours=200/3600;
-200=200%3600;
-String output=hours+" hours : "+minutes+" minutes :"+seconds+" Seconds ";
-		System.out.print("Result in (Hours:Minutes:Seconds) - "+ output);
+
+hour= 200/60
+print(hour)
  
