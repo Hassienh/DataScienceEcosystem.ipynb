@@ -9,3 +9,11 @@
 6. Scala.
 7. C/C++
 8. JavaScript.
+   
+#### Some of the commonly used libraries used by Data Scientists include:
+1. TensorFlow
+2. NumPy
+3. SciPy 
+4. Pandas
+
+
