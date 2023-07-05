@@ -24,5 +24,8 @@
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
 #### This a simple arithmetic expression to mutiply then add integers
-(3*4)+5 
+N= 3 ; B=4 ; F=5
+AL= (3*4)+5
+return AL
+ 
 
