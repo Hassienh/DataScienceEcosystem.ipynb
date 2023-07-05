@@ -23,4 +23,6 @@
 | TensorFlow          | 
 
 ### Below are a few examples of evaluating arithmetic expressions in Python
+#### This a simple arithmetic expression to mutiply then add integers
+(3*4)+5 
 
