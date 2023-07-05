@@ -16,4 +16,10 @@
 3. SciPy 
 4. Pandas
 
+| Data Science Tools  | 
+| -------------       | 
+|     RStudio         |
+| Apache Spark        | 
+| TensorFlow          | 
+
 
