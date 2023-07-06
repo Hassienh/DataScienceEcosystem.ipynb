@@ -40,6 +40,7 @@ return $hours = intval(intval(200) / 3600);
 #### 3.Data exploration, data cleaning, and plot building
 #### 4.Jupyter Notebook good for machine learning
 
+## Author Name: Hassienh
 
 
 
