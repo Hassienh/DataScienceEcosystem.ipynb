@@ -31,7 +31,4 @@ AL: (N*4)+F;
 run: AL
 
 
-hour= 200/60
-print(hour)
-
-$\hat{Y} = \hat{\beta}_{0} + \sum \limits _{j=1} ^{p} X_{j}\hat{\beta}_{j} $
+ $hours = intval(intval($sec) / 3600);
