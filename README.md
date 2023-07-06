@@ -33,3 +33,14 @@ run: AL
 
 return $hours = intval(intval(200) / 3600);
 
+### Objectives:
+### some of the key takeaways from the course
+#### 1. List popular languages for Data Science.
+#### 2.allow the user to bring together data, code, and prose, to tell an interactive, computational story
+#### 3.Data exploration, data cleaning, and plot building
+#### 4.Jupyter Notebook good for machine learning
+
+
+
+
+
