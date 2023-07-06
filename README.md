@@ -31,4 +31,4 @@ AL: (N*4)+F;
 run: AL
 
 
- $hours = intval(intval($sec) / 3600);
+ $hours = intval(intval(200) / 3600);
